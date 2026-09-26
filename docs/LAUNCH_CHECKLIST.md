@@ -11,4 +11,4 @@
 - [ ] Review mobile layout and accessibility with actual content.
 - [ ] Choose hosting, domain and publication timing; remove draft banners and `noindex` after approval.
 
-Source of project handoff: [Paila Drive handoff](https://docs.google.com/document/d/1kvb-cP3qWANfXyubWm6thOIRC7jBHPuttuledZks2Qs/edit). This checklist reflects the draft's current limits, not final business policies.
+This checklist reflects the preview's current public-launch limits, not final business policies.
