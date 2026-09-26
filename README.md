@@ -8,7 +8,7 @@ Run `python3 -m http.server 8000` in the repository and open `http://localhost:8
 
 ## Structure
 
-- Seven HTML pages: home, schedule, passes, instructors, about, contact, member.
+- Eight HTML pages: home, schedule, passes, instructors, about, contact, directions, member.
 - `assets/css/styles.css` holds the responsive design.
 - `assets/js/shared.js` handles the mobile navigation and copyright year.
 - `data/site-data.js` records the currently approved public fields. The blank fields are deliberate.
@@ -16,5 +16,7 @@ Run `python3 -m http.server 8000` in the repository and open `http://localhost:8
 - `docs/LAUNCH_CHECKLIST.md` lists the content and service decisions before publication.
 
 Pages carry a `noindex` meta tag during review. **A published GitHub Pages site is public even when its source repository is private.** Remove `noindex` only for the approved public launch.
+
+The directions page uses the map pin supplied by Paila (27.6728007, 85.3155726) and links to Google Maps. The written street address and opening hours are still pending.
 
 The operational workbook and confidential customer or staff data belong in private Paila Drive. Only owner-approved public exports belong here. No booking, payment, contact form or member authentication is active.
